@@ -34,7 +34,7 @@ Through a comprehensive analysis of the employee data, this project provides:
 ---
 
 ## **Dataset**  
-The dataset includes critical employee metrics such as satisfaction levels, work hours, and promotions.  
+The dataset includes critical employee metrics such as satisfaction levels, work hours, and promotions. This dataset contains nearly 15004 rows and 11 columns.
 
 | Column Name              | Description                                                     |
 |--------------------------|-----------------------------------------------------------------|
